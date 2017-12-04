@@ -10,6 +10,8 @@ Bir önceki notum Inline CSS hakkındaydı Internal CSS .”html” dosyasındak
 
  
 
+ ```
+ 
 <html>
 <title>Internal Css</title>
 <style type=”text/css”>
@@ -32,7 +34,8 @@ font-size: 150%;
 <p> p etiketi CSS </p>
 </body>
 </html>
- 
+// 
+```
 
  
 
